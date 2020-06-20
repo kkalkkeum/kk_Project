@@ -4,11 +4,9 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <fragment
-
-        android:id="@+id/titles"
+    <FrameLayout
+        android:id="@+id/details"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
 </LinearLayout>
-<!--    android:name="com.hansung.android.homework3.RestaurantDetailFragment"-->
