@@ -18,6 +18,8 @@ public class RestaurantDetailFragment extends Fragment {
         public void onTitleSelected(int i);
     }
 
+
+
     public RestaurantDetailFragment() {
     }
 
